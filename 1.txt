@@ -1,1 +1,5 @@
+ 2stbranch
 "this is my 1st branch file helbhbhxjcbhcjc:wlooooo  cmxnkcncnc ncbcjdcbncmdhcndc dmc"
+=======
+"1st branch filjbhbjhbhjbjsncshje"
+ master
